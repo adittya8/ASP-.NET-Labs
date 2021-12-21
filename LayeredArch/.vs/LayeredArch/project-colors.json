@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bae6aa0-a56d-4881-8e6b-a2fb07cbe455": {
+      "ProjectGuid": "9bae6aa0-a56d-4881-8e6b-a2fb07cbe455",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 0
+    },
+    "80c5eb9e-0520-4b64-a581-99d2501daf8f": {
+      "ProjectGuid": "80c5eb9e-0520-4b64-a581-99d2501daf8f",
+      "DisplayName": "LayeredArch",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
